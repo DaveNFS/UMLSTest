@@ -1,0 +1,35 @@
+101     hearing  loss
+102     GERD     endoscopy       Gastroesophageal         reflux          
+103     methicillin-resistant   Staphylococcus  aureus  endocarditis    MRSA                                                   
+104     localized   prostate    cancer   prostate        robotic surgery NOS                                                                                                    
+105     dementia                                                                                        
+106     pet     mri     ct      staging monitoring      cancer                                                                                                
+107     ductal  carcinoma           situ     DCIS                                                                                                        
+108     vascular        claudication                                                                            
+109     osteopenia      BMD                                                                             
+110     hemodialysis    kidney  renal                                                                   
+111     chronic back pain       back    pain    pump    spinal  ITDD                                                                                                
+112     mastectomy                                                                                                                                     
+113     colonoscopy     adecarcinoma                                                                                                                            
+114     palliative      hospice home                                                                                                                    
+115     asthma   exacerbation    dyspnea                                                                                                                 
+116     methotrexate                                                                                                                                  
+117     Post-traumatic   Stress    Disorder     PTSD                                                                           
+118     coronary        stent                                                                          
+119     anion gap acidosis insulin diabetes                                                                                                      
+120     CHF        exacerbation     congestive                                                                                                                  
+121     CAD     acute   coronary        Plavix                                                                                                                                                          
+122     parenteral nutrition intravenous                                                                    
+123     diabetic        education          diabetes          prevention                                                          
+124     loss     vision  glaucoma                                                                                                                      
+125     Hepatitis        C       HIV                                                                                                                                                                  
+126     multiple         sclerosis       MS                                                                                                                    
+127     morbid  obesity diabetes        hypertension                                                                                                        
+128     hip surgery     knee    surgery anti-coagulant                                                                                                                                                       
+129     chest pain       pain    CT      angiography                                                                                                            
+130     Children        cerebral        palsy    physical        therapy PT                                               
+131     abdominal       surgery laparoscopy     laparoscopic                                                           
+132     cervical        spine   surgery fusion  discectomy                                                                                                      
+133     herbal  osteoarthritis                                                                         
+134     seizure epilepsy                                                                                                                               
+135     cancer  liver     metastasis

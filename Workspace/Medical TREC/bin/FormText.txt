@@ -1,0 +1,16 @@
+GENERAL EXAM - Only document those organ systems that are 
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[YYY ZZZ], MD (Epic# 
+REVIEW OF SYSTEMS: Modified Edmonton System Assessment Scale (ESAS): This 
+control requires a parameter in the Form Designer tool called 
+GENERAL EXAM (Select "not examined" for any organ system not 
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[WWW XXX], MD at 
+ATTENDING NOTE AND ATTESTATION: Time: Minutes of unit/floor time I 
+of minutes that were spent on counseling and/or coordination of 
+ATTENDING PHYSICIAN SIGNATURE: Electronically signed by **NAME[WWW XXX], MD (Epic# 
+TEACHING PHYSICIAN ATTESTATION: GC; I saw and evaluated the patient. 
+with the findings and the plan of care as documented 
+Reason for Consult: I am being asked by the following 
+Reason for consult: This consultation is in regard to the 
+Please notify me if you would like me to follow 
+D5 1/2 NS + KCL 20 mEq premix 1000mL 1000mL 
+Ears, Nose, Mouth &amp; Throat: Moist mucosa; Hearing grossly normal

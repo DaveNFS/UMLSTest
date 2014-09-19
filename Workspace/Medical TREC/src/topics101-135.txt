@@ -1,0 +1,245 @@
+<top>
+<num> Number: 101
+
+<desc>
+Patients with hearing loss
+</top>
+
+<top>
+<num> Number: 102
+
+<desc>
+Patients with complicated GERD who receive endoscopy
+</top>
+
+<top>
+<num> Number: 103
+
+<desc>
+Hospitalized patients treated for methicillin-resistant Staphylococcus aureus (MRSA) endocarditis
+</top>
+
+<top>
+<num> Number: 104
+
+<desc>
+Patients diagnosed with localized prostate cancer and treated with robotic surgery
+</top>
+
+<top>
+<num> Number: 105
+
+<desc>
+Patients with dementia
+</top>
+
+<top>
+<num> Number: 106
+
+<desc>
+Patients who had positron emission tomography (PET), magnetic resonance imaging (MRI), or computed tomography (CT) for staging or monitoring of cancer
+</top>
+
+<top>
+<num> Number: 107
+
+<desc>
+Patients with ductal carcinoma in situ (DCIS)
+</top>
+
+<top>
+<num> Number: 108
+
+<desc>
+Patients treated for vascular claudication surgically
+</top>
+
+<top>
+<num> Number: 109
+
+<desc>
+Women with osteopenia
+</top>
+
+<top>
+<num> Number: 110
+
+<desc>
+Patients being discharged from the hospital on hemodialysis
+</top>
+
+<top>
+<num> Number: 111
+
+<desc>
+Patients with chronic back pain who receive an intraspinal pain-medicine pump
+</top>
+
+<top>
+<num> Number: 112
+
+<desc>
+Female patients with breast cancer with mastectomies during admission
+</top>
+
+<top>
+<num> Number: 113
+
+<desc>
+Adult patients who received colonoscopies during admission which revealed adecarcinoma
+</top>
+
+<top>
+<num> Number: 114
+
+<desc>
+Adult patients discharged home with palliative care / home hospice
+</top>
+
+<top>
+<num> Number: 115
+
+<desc>
+Adult patients who are admitted with an asthma exacerbation
+</top>
+
+<top>
+<num> Number: 116
+
+<desc>
+Patients who received methotrexate for cancer treatment while in the hospital
+</top>
+
+<top>
+<num> Number: 117
+
+<desc>
+Patients with Post-traumatic Stress Disorder
+</top>
+
+<top>
+<num> Number: 118
+
+<desc>
+Adults who received a coronary stent during an admission
+</top>
+
+<top>
+<num> Number: 119
+
+<desc>
+Adult patients who presented to the emergency room with with anion gap acidosis secondary to insulin dependent diabetes
+</top>
+
+<top>
+<num> Number: 120
+
+<desc>
+Patients admitted for treatment of CHF exacerbation
+</top>
+
+<top>
+<num> Number: 121
+
+<desc>
+Patients with CAD who presented to the Emergency Department with Acute Coronary Syndrome and were given Plavix
+</top>
+
+<top>
+<num> Number: 122
+
+<desc>
+Patients who received total parenteral nutrition while in the hospital
+</top>
+
+<top>
+<num> Number: 123
+
+<desc>
+Diabetic patients who received diabetic education in the hospital
+</top>
+
+<top>
+<num> Number: 124
+
+<desc>
+Patients who present to the hospital with episodes of acute loss of vision secondary to glaucoma
+</top>
+
+<top>
+<num> Number: 125
+
+<desc>
+Patients co-infected with Hepatitis C and HIV
+</top>
+
+<top>
+<num> Number: 126
+
+<desc>
+Patients admitted with a diagnosis of multiple sclerosis
+</top>
+
+<top>
+<num> Number: 127
+
+<desc>
+Patients admitted with morbid obesity and secondary diseases of diabetes and or hypertension
+</top>
+
+<top>
+<num> Number: 128
+
+<desc>
+Patients admitted for hip or knee surgery who were treated with anti-coagulant medications post-op
+</top>
+
+<top>
+<num> Number: 129
+
+<desc>
+Patients admitted with chest pain and assessed with CT angiography
+</top>
+
+<top>
+<num> Number: 130
+
+<desc>
+Children admitted with cerebral palsy who received physical therapy
+</top>
+
+<top>
+<num> Number: 131
+
+<desc>
+Patients who underwent minimally invasive abdominal surgery
+</top>
+
+<top>
+<num> Number: 132
+
+<desc>
+Patients admitted for surgery of the cervical spine for fusion or discectomy
+</top>
+
+<top>
+<num> Number: 133
+
+<desc>
+Patients admitted for care who take herbal products for osteoarthritis
+</top>
+
+<top>
+<num> Number: 134
+
+<desc>
+Patients admitted with chronic seizure disorder to control seizure activity
+</top>
+
+<top>
+<num> Number: 135
+
+<desc>
+Cancer patients with liver metastasis treated in the hospital who underwent a procedure
+</top>
+
